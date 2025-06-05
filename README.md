@@ -19,6 +19,7 @@ Source/
 ├── DAO/            # Objetos de acesso a dados
 ├── Models/         # Modelos de dados
 └── Services/       # Serviços externos
+└── View/       # Camada de Apresentação
 ```
 
 ## Funcionalidades
@@ -50,8 +51,7 @@ Source/
 ## Tecnologias Utilizadas
 
 ### Delphi
-- Delphi 10.1 Alexandria
-- VCL para interface gráfica
+- Delphi 10.1
 - FireDAC para acesso a dados
 
 ### APIs
