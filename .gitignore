@@ -179,7 +179,6 @@ debug/
 *.dpr
 *.dpk
 *.bdsproj
-*.dproj
 *.groupproj
 *.otaproj
 *.otagroup
