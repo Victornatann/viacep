@@ -175,19 +175,6 @@ debug/
 *.~*
 *.local
 
-# Arquivos de projeto específicos
-*.dpr
-*.dpk
-*.bdsproj
-*.groupproj
-*.otaproj
-*.otagroup
-*.otapkg
-*.otadpk
-*.otadproj
-*.otadgroup
-*.otadpkg
-
 # Arquivos de projeto específicos do usuário
 *.dpr.local
 *.dpk.local
